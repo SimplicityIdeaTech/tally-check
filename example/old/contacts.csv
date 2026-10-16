@@ -1,0 +1,9 @@
+id,company_id,full_name,title,updated_at
+101,1,Ava Stone,Buyer,2026-01-05
+102,1,Ben Okafor,Buyer,2026-01-06
+103,2,Sample Person B,Buyer,2026-01-09
+104,3,Dev Patel,Buyer,2026-02-11
+105,3,Elena Rossi,Buyer,2026-02-12
+106,4,Farid Haddad,Buyer,2026-03-02
+107,4,Sample Person A,Buyer,2026-03-03
+108,2,Hugo Meyer,Buyer,2026-03-10
